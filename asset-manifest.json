@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/warwie/static/css/main.307d17ef.css",
+    "main.js": "/warwie/static/js/main.d30fd97a.js",
+    "static/media/sandi.jpg": "/warwie/static/media/sandi.434a466253d67484da74.jpg",
+    "static/media/usep.jpg": "/warwie/static/media/usep.edf030a1159ae22afe59.jpg",
+    "static/media/wisnu.jpg": "/warwie/static/media/wisnu.a83e51c9ddadb8bd411b.jpg",
+    "static/media/waa.jpg": "/warwie/static/media/waa.4abe7576f3cd4b4ec9f2.jpg",
+    "static/media/gallery-6.jpg": "/warwie/static/media/gallery-6.0508e023391885baa14c.jpg",
+    "static/media/gallery-5.jpg": "/warwie/static/media/gallery-5.04a9add03f77796223eb.jpg",
+    "static/media/gallery-4.jpg": "/warwie/static/media/gallery-4.eee9c9106717e343a369.jpg",
+    "index.html": "/warwie/index.html",
+    "main.307d17ef.css.map": "/warwie/static/css/main.307d17ef.css.map",
+    "main.d30fd97a.js.map": "/warwie/static/js/main.d30fd97a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.307d17ef.css",
+    "static/js/main.d30fd97a.js"
+  ]
+}
